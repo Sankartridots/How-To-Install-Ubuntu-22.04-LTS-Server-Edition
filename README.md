@@ -7,8 +7,8 @@ Ubuntu is a beginner-friendly Linux distribution, so installing Ubuntu server is
 Step 1 - Boot Ubuntu ISO
 Boot your system with the newly created Ubuntu 22.04 bootable USB drive. First, you will see the Grub menu. By default, the first option (i.e. Try or Install Ubuntu Ubuntu Server) is automatically selected to boot into the live system.
 
-Try Ubuntu
-Try Ubuntu
+https://ostechnix.com/wp-content/uploads/2023/04/Try-Ubuntu.png
+
 Step 2 - Choose Language for Ubuntu Installer
 After a few seconds, you will see the language selection window for the installer menu. I choose "English". Hit ENTER to continue.
 
